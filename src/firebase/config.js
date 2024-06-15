@@ -18,4 +18,4 @@ const firebaseConfig = {
   export const storage = app.storage()
   export const db = app.firestore()
 
-  Prueba
+  
